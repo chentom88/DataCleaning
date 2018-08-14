@@ -53,7 +53,6 @@ data should be in standard gravity units 'g'
 * **subject_id**: A unique numeric identifier for a single participant in the measurement study
 * **activity**: A descriptive label of the activity that the subject was performing when
 the measurement data was taken
-* **tBodyAcc-mean()-X**: the mean acceleration in the x direction as recorded by the accelerometer
 * **sensor measurement data**: for a description of the sensor measurement data, please see the 
 original data set from the 
 [UCI Machine Learning repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
