@@ -44,7 +44,7 @@ in the `subject_train.txt` file with the activity data in `y_<set name>.txt`.
    average of each measurement variable for each subject and each activity.
    This data frame is then written out to the `all_data.csv` file.
 
-# Glossary of variables
+## Glossary of variables
 
 Both the data frames contained in the `all_data.csv` and `summary_data.csv` files contain 
 the same variables/features so this glossary should apply to both. All sensor measurement
